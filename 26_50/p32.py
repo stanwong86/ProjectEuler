@@ -9,6 +9,7 @@ def permute(s):
     return list
 
 n = '123456789'
+
 # Create list of unique pandigital numbers
 list = permute(n)
 pandigital = []
